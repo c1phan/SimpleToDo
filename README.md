@@ -32,7 +32,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I had the challenge of having to import everything manually as I didn't quite understand how to do it using a shortcut. I am also facing the challenge of figuring out how to reopen my code on AndroidStudio because for some reason it's not showing up anymore... Overall, my main problem is figuring out how to navigate around AndroidStudio since it's my first time using this software.
 
 ## License
 
